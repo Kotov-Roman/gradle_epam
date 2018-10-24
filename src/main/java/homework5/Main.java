@@ -32,10 +32,6 @@ public class Main {
         threadWaste5.start();
         Thread threadWaste6 = new Thread(runnableWaste);
         threadWaste6.start();
-        Thread threadWaste7 = new Thread(runnableWaste);
-        threadWaste7.start();
-
-
 
     }
 }
