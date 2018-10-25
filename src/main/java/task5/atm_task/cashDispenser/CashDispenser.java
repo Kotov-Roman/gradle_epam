@@ -1,9 +1,9 @@
-package homework5.cashDispenser.utils;
+package task5.atm_task.cashDispenser;
 
 import com.sun.istack.internal.NotNull;
-import homework5.CustomerAccount;
-import homework5.addMoney.utils.AddMoneyBehavior;
-import homework5.wasteMoney.utils.WasteMoneyBehavior;
+import task5.atm_task.CustomerAccount;
+import task5.atm_task.addMoney_utils.AddMoneyBehavior;
+import task5.atm_task.wasteMoney_utils.WasteMoneyBehavior;
 
 /**
  * Abstract implementation of CashDispenser. Determines all basic methods.

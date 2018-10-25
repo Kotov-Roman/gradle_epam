@@ -1,4 +1,4 @@
-package homework5.wasteMoney.utils;
+package task5.atm_task.wasteMoney_utils;
 
 /**
  *  Part of implementation of pattern Strategy

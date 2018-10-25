@@ -1,4 +1,4 @@
-package homework5.cashDispenser.utils;
+package task5.atm_task.cashDispenser;
 
 /**
  * Atm implementation of the <tt>CashDispanser</tt> abstract class.  Implements

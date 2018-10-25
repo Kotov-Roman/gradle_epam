@@ -1,7 +1,7 @@
-package homework5.cashDispenser.utils;
+package task5.atm_task.cashDispenser;
 
-import homework5.addMoney.utils.PossibleAddMoney;
-import homework5.wasteMoney.utils.PossibleWasteMoney;
+import task5.atm_task.addMoney_utils.PossibleAddMoney;
+import task5.atm_task.wasteMoney_utils.PossibleWasteMoney;
 
 /**
  * Atm implementation of the <tt>CashDispenser</tt> abstract class.  Implements

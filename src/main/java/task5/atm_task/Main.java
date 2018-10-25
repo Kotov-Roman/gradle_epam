@@ -1,7 +1,7 @@
-package homework5;
+package task5.atm_task;
 
-import homework5.cashDispenser.utils.CashDispenser;
-import homework5.cashDispenser.utils.RealCashDispenser;
+import task5.atm_task.cashDispenser.CashDispenser;
+import task5.atm_task.cashDispenser.RealCashDispenser;
 
 public class Main {
     public static void main(String[] args) {

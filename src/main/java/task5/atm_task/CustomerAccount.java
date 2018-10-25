@@ -1,4 +1,4 @@
-package homework5;
+package task5.atm_task;
 
 /**
  * CustomerAccount class. Contains cash account and methods to work with it.

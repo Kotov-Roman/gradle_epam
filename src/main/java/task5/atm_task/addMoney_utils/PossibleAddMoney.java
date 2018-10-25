@@ -1,4 +1,4 @@
-package homework5.addMoney.utils;
+package task5.atm_task.addMoney_utils;
 
 /**
  *  Part of implementation of pattern Strategy
