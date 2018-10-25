@@ -1,13 +1,15 @@
 package task5.atm_task.wasteMoney_utils;
 
+import java.math.BigDecimal;
+
 /**
  *  Part of implementation of pattern Strategy
  */
 
 public class ImpossibleWasteMoney implements WasteMoneyBehavior {
     @Override
-    public double removeMoney(double amount) {
+    public BigDecimal removeMoney(double amount) {
         System.out.println("Impossible to waste money");
-        return 0;
+        return new BigDecimal(0);
     }
 }

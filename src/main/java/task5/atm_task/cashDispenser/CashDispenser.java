@@ -17,14 +17,12 @@ public abstract class CashDispenser {
 
     /**
      * Returns the cash account after replenishment.
-     *
      * @param money - the value that should not be null and should be more or equals to 0
      */
     public abstract void performAddMoney(@NotNull double money);
 
     /**
      * Returns the cash account after cash withdrawal.
-     *
      * @param money - the value that should not be null and should be more or equals to 0
      */
     public abstract void performWasteMoney(@NotNull double money);

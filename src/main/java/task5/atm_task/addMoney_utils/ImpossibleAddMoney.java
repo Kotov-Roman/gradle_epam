@@ -1,13 +1,15 @@
 package task5.atm_task.addMoney_utils;
 
+import java.math.BigDecimal;
+
 /**
  *  Part of implementation of pattern Strategy
  */
 
 public class ImpossibleAddMoney implements AddMoneyBehavior {
     @Override
-    public double addMoney(double amount) {
+    public BigDecimal addMoney(double amount) {
         System.out.println("impossible to add money from this CashDispanser");
-        return 0;
+        return new BigDecimal(0);
     }
 }

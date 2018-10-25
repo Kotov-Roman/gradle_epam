@@ -7,7 +7,8 @@ package task5.atm_task.cashDispenser;
 
 public class ToyDispenser extends CashDispenser {
 
-    /** Returns the cash account after replenishment.
+    /**
+     * Returns the cash account after replenishment.
      * @param money - the value that should not be null and should be more or equals to 0
      */
     @Override
